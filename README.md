@@ -1,2 +1,2 @@
-# GSCO-class-20
-It is an organisation for car safety
+# p5.play-boilerplate
+Boiler plate for p5.play
